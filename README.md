@@ -2,7 +2,7 @@
 # Travel Packing List Manager App
 
 ## Repository Link
-Access the complete Kotlin source code here: [Insert your GitHub Repository Link Here]
+Access the complete Kotlin source code here: [https://github.com/Tumi87/Practicum]
 
 ---
 
